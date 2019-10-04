@@ -1,13 +1,3 @@
-/*
-Template: Markethon - Digital Marketing Agency Responsive HTML5 Template
-Author: iqonicthemes.in
-Design and Developed by: iqonicthemes.in
-NOTE: This file contains the styling for responsive Template.
-*/
-
-/*================================================
-[  Table of contents  ]
-================================================
 
 :: Header
 :: Megamenu 
@@ -156,7 +146,7 @@ header .mega-menu .menu-search-bar input:focus {
 }
 
 header.header-one  .menu-contact a {
-	color: #ffffff;
+	color: #eaeef7;
 	padding-left: 30px;
 	min-height: auto;
 }
@@ -402,7 +392,7 @@ header.header-two .mega-menu>section.menu-list-items {
 }
 
 .header-top-bar li a:hover {
-	color: #33e2a0;
+	color: #388fd2;
 }
 
 header.header-two .mega-menu .menu-search-bar i.fa.fa-search {
@@ -476,7 +466,7 @@ header.header-three .mega-menu .menu-links {
 header.header-two .mega-menu.desktopTopFixed .hamburger {
 	top: 30px;
 	right: 150px;
-	position: fixed;
+	position: absolute;
 }
 
 header.header-two .mega-menu.desktopTopFixed #masthead.is-active {
@@ -524,7 +514,7 @@ Solution Section
 	line-height: 80px;
 	text-align: center;
 	border-radius: 100%;
-	box-shadow: 0px 9px 30px 0px rgba(124, 96, 213, 0.4);
+	box-shadow: 0px 9px 30px 0px rgba(124, 96, 213, 0.7);
 }
 
 .iq-slolution-details .icon i {
@@ -927,7 +917,7 @@ video section
 .iq-video:before {
 	position: absolute;
 	content: "";
-	background: url('../images/video/4.png') no-repeat 0 0;
+	background: url('../images/video/3.png') no-repeat 0 0;
 	background-size: 100%;
 	top: -5px;
 	left: 0;
